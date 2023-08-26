@@ -10,8 +10,9 @@ I'm  an ML enthusiast. I'm a junior at SRM Institute of Science and Technology p
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mayank%20Mehra)](https://git.io/streak-stats)<br/>
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MayankMehra7&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MayankMehra7&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MayankMehra7&icon=2&color=6)](https://visitcount.itsvg.in)
