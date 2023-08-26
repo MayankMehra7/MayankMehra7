@@ -14,4 +14,4 @@ I'm  an ML enthusiast. I'm a junior at SRM Institute of Science and Technology p
 
 
 ---
-[![]([![](https://visitcount.itsvg.in/api?id=MayankMehra7&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in))
+[![](https://visitcount.itsvg.in/api?id=MayankMehra7&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
