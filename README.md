@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm  an ML enthusiast. I'm a junior at SRM Institute of Science and Technology pursuing BCA Computer Application
+I'm  an ML enthusiast. I'm  pursuing BCA Computer Application at SRM Institute of Science and Technology
 
 
 ## 🌐 Socials:
