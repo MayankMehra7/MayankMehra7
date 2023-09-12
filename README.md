@@ -11,7 +11,7 @@ I'm  an ML enthusiast. I'm  pursuing BCA Computer Application at SRM Institute o
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mayank%20Mehra)](https://git.io/streak-stats)<br/>
 
 ## 🏆 GitHub Trophies
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MayankMehra7)](https://git.io/streak-stats)
+![](https://github-profile-trophy.vercel.app/?username=MayankMehra7&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
 ---
