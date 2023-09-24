@@ -18,6 +18,7 @@ I'm  an ML enthusiast. I'm  pursuing BCA Computer Application at SRM Institute o
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayankMehra7&layout=compact&theme=vision-friendly-dark)](https://github.com/MayankMehra7/github-readme-stats)
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=MayankMehra7&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
