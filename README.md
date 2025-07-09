@@ -3,7 +3,7 @@
 </div>
 
 ## 💫 About Me:
-I'm  an ML enthusiast. I'm  pursuing BCA Computer Application at SRM Institute of Science and Technology
+I'm  an ML enthusiast. 
 
 
 ## 🌐 Socials:
